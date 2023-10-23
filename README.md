@@ -1,1 +1,1 @@
-# pull-request-practica
+# Esta es una sección informativa
